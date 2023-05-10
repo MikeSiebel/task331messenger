@@ -1,0 +1,26 @@
+.chat-result{
+    margin: 30px 10px;
+    border: 1px solid gray;
+    padding: 10px;
+}
+
+#chat-result > div:nth-child(n+3){
+    margin: 10px 0 0 20px ;
+    color: blue;
+}
+
+#chat{
+    margin-left: 50px;
+    font-size: 18px;
+    font-weight: 600;
+    color: black;
+}
+
+nav {
+    margin: 40px;
+    font-size: 20px;
+    font-weight: 600;
+}
+#menu > a {
+    margin-left: 30px;
+}
